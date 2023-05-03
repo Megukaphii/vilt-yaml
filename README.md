@@ -1,2 +1,2 @@
 # vilt-yaml
- A YAML file for testing VILT projects with GitHub actions
+ A YAML file for testing VILT projects with PHPUnit via GitHub actions. I don't intend to maintain this, I just needed it for a project of mine and couldn't find an example anywhere, so here it is for anyone else to use.
